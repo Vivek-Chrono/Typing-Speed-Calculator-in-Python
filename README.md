@@ -1,5 +1,5 @@
 # Typing-Speed-Calculator-in-Python
-## code
+## Code
 
 import time
 
